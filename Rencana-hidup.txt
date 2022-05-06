@@ -2,8 +2,8 @@ RENCANA KEDEPAN
 
 - JavaScript
   * FrameWork Javascript
+    - Angular
+    - React
   * Menambahkan Detail
 - Fundamental data stucture
-- Java
-- Interview
 - Vlog
