@@ -1,6 +1,8 @@
 RENCANA KEDEPAN
 
 - JavaScript
+  * FrameWork Javascript
+  * Menambahkan Detail
 - Java
 - Interview
 - Vlog
