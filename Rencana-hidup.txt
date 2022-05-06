@@ -3,6 +3,7 @@ RENCANA KEDEPAN
 - JavaScript
   * FrameWork Javascript
   * Menambahkan Detail
+- Fundamental data stucture
 - Java
 - Interview
 - Vlog
